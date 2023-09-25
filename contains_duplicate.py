@@ -5,4 +5,3 @@ class Solution:
             if num in seent:
                 return True
             seent[num] = 1
-            
