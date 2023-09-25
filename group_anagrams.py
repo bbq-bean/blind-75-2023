@@ -26,4 +26,3 @@ class Solution:
         # * we got 2 loops
         # m number of string, n average length of string
         return res.values()
-    
