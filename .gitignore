@@ -1,1 +1,214 @@
-{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":2}},"fileTreeProcessingTime":1.89002,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":285410077,"defaultBranch":"master","name":"gitignore-intellij-plus-python","ownerLogin":"bbq-bean","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2020-08-05T21:40:12.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/56009253?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1596663730.0","canEdit":false,"refType":"branch","currentOid":"40067146dc21d74291587283ea7f5742cbbd20fe"},"path":".gitignore","currentUser":null,"blob":{"rawLines":["# Byte-compiled / optimized / DLL files","__pycache__/","*.py[cod]","*$py.class","","# C extensions","*.so","","# Distribution / packaging",".Python","build/","develop-eggs/","dist/","downloads/","eggs/",".eggs/","lib/","lib64/","parts/","sdist/","var/","wheels/","share/python-wheels/","*.egg-info/",".installed.cfg","*.egg","MANIFEST","","# PyInstaller","#  Usually these files are written by a python script from a template","#  before PyInstaller builds the exe, so as to inject date/other infos into it.","*.manifest","*.spec","","# Installer logs","pip-log.txt","pip-delete-this-directory.txt","","# Unit test / coverage reports","htmlcov/",".tox/",".nox/",".coverage",".coverage.*",".cache","nosetests.xml","coverage.xml","*.cover","*.py,cover",".hypothesis/",".pytest_cache/","cover/","","# Translations","*.mo","*.pot","","# Django stuff:","*.log","local_settings.py","db.sqlite3","db.sqlite3-journal","","# Flask stuff:","instance/",".webassets-cache","","# Scrapy stuff:",".scrapy","","# Sphinx documentation","docs/_build/","","# PyBuilder",".pybuilder/","target/","","# Jupyter Notebook",".ipynb_checkpoints","","# IPython","profile_default/","ipython_config.py","","# pyenv","#   For a library or package, you might want to ignore these files since the code is","#   intended to run in multiple environments; otherwise, check them in:","# .python-version","","# pipenv","#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.","#   However, in case of collaboration, if having platform-specific dependencies or dependencies","#   having no cross-platform support, pipenv may install dependencies that don't work, or not","#   install all needed dependencies.","#Pipfile.lock","","# PEP 582; used by e.g. github.com/David-OConnor/pyflow","__pypackages__/","","# Celery stuff","celerybeat-schedule","celerybeat.pid","","# SageMath parsed files","*.sage.py","","# Environments",".env",".venv","env/","venv/","ENV/","env.bak/","venv.bak/","","# Spyder project settings",".spyderproject",".spyproject","","# Rope project settings",".ropeproject","","# mkdocs documentation","/site","","# mypy",".mypy_cache/",".dmypy.json","dmypy.json","","# Pyre type checker",".pyre/","","# pytype static type analyzer",".pytype/","","# Cython debug symbols","cython_debug/","","# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider","# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839","","# User-specific stuff",".idea/**/workspace.xml",".idea/**/tasks.xml",".idea/**/usage.statistics.xml",".idea/**/dictionaries",".idea/**/shelf","","# Generated files",".idea/**/contentModel.xml","","# Sensitive or high-churn files",".idea/**/dataSources/",".idea/**/dataSources.ids",".idea/**/dataSources.local.xml",".idea/**/sqlDataSources.xml",".idea/**/dynamic.xml",".idea/**/uiDesigner.xml",".idea/**/dbnavigator.xml","","# Gradle",".idea/**/gradle.xml",".idea/**/libraries","","# Gradle and Maven with auto-import","# When using Gradle or Maven with auto-import, you should exclude module files,","# since they will be recreated, and may cause churn.  Uncomment if using","# auto-import.",".idea/artifacts",".idea/compiler.xml",".idea/jarRepositories.xml",".idea/modules.xml",".idea/*.iml",".idea/modules","*.iml","*.ipr","","# CMake","cmake-build-*/","","# Mongo Explorer plugin",".idea/**/mongoSettings.xml","","# File-based project format","*.iws","","# IntelliJ","out/","","# mpeltonen/sbt-idea plugin",".idea_modules/","","# JIRA plugin","atlassian-ide-plugin.xml","","# Cursive Clojure plugin",".idea/replstate.xml","","# Crashlytics plugin (for Android Studio and IntelliJ)","com_crashlytics_export_strings.xml","crashlytics.properties","crashlytics-build.properties","fabric.properties","","# Editor-based Rest Client",".idea/httpRequests","","# Android studio 3.1+ serialized cache file",".idea/caches/build_file_checksums.ser"],"stylingDirectives":[[{"start":0,"end":39,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":11,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":4,"cssClass":"pl-e"},{"start":5,"end":8,"cssClass":"pl-c1"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":10,"cssClass":"pl-e"}],[],[{"start":0,"end":14,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":4,"cssClass":"pl-e"}],[],[{"start":0,"end":26,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":7,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":12,"cssClass":"pl-e"}],[{"start":0,"end":4,"cssClass":"pl-e"}],[{"start":0,"end":9,"cssClass":"pl-e"}],[{"start":0,"end":4,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":3,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":3,"cssClass":"pl-e"}],[{"start":0,"end":6,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":19,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":10,"cssClass":"pl-e"}],[{"start":0,"end":14,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":8,"cssClass":"pl-e"}],[],[{"start":0,"end":13,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":69,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":79,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":10,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":6,"cssClass":"pl-e"}],[],[{"start":0,"end":16,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":11,"cssClass":"pl-e"}],[{"start":0,"end":29,"cssClass":"pl-e"}],[],[{"start":0,"end":30,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":7,"cssClass":"pl-e"}],[{"start":0,"end":4,"cssClass":"pl-e"}],[{"start":0,"end":4,"cssClass":"pl-e"}],[{"start":0,"end":9,"cssClass":"pl-e"}],[{"start":0,"end":10,"cssClass":"pl-e"},{"start":10,"end":11,"cssClass":"pl-k"}],[{"start":0,"end":6,"cssClass":"pl-e"}],[{"start":0,"end":13,"cssClass":"pl-e"}],[{"start":0,"end":12,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":7,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":10,"cssClass":"pl-e"}],[{"start":0,"end":11,"cssClass":"pl-e"}],[{"start":0,"end":13,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[],[{"start":0,"end":14,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":4,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":5,"cssClass":"pl-e"}],[],[{"start":0,"end":15,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":17,"cssClass":"pl-e"}],[{"start":0,"end":10,"cssClass":"pl-e"}],[{"start":0,"end":18,"cssClass":"pl-e"}],[],[{"start":0,"end":14,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":8,"cssClass":"pl-e"}],[{"start":0,"end":16,"cssClass":"pl-e"}],[],[{"start":0,"end":15,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":7,"cssClass":"pl-e"}],[],[{"start":0,"end":22,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":4,"cssClass":"pl-e"},{"start":5,"end":11,"cssClass":"pl-e"}],[],[{"start":0,"end":11,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":10,"cssClass":"pl-e"}],[{"start":0,"end":6,"cssClass":"pl-e"}],[],[{"start":0,"end":18,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":18,"cssClass":"pl-e"}],[],[{"start":0,"end":9,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":15,"cssClass":"pl-e"}],[{"start":0,"end":17,"cssClass":"pl-e"}],[],[{"start":0,"end":7,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":84,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":71,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":17,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[],[{"start":0,"end":8,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":95,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":95,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":93,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":36,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":13,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[],[{"start":0,"end":55,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":14,"cssClass":"pl-e"}],[],[{"start":0,"end":14,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":19,"cssClass":"pl-e"}],[{"start":0,"end":14,"cssClass":"pl-e"}],[],[{"start":0,"end":23,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":9,"cssClass":"pl-e"}],[],[{"start":0,"end":14,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":4,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":3,"cssClass":"pl-e"}],[{"start":0,"end":4,"cssClass":"pl-e"}],[{"start":0,"end":3,"cssClass":"pl-e"}],[{"start":0,"end":7,"cssClass":"pl-e"}],[{"start":0,"end":8,"cssClass":"pl-e"}],[],[{"start":0,"end":25,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":14,"cssClass":"pl-e"}],[{"start":0,"end":11,"cssClass":"pl-e"}],[],[{"start":0,"end":23,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":12,"cssClass":"pl-e"}],[],[{"start":0,"end":22,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":1,"end":5,"cssClass":"pl-e"}],[],[{"start":0,"end":6,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":11,"cssClass":"pl-e"}],[{"start":0,"end":11,"cssClass":"pl-e"}],[{"start":0,"end":10,"cssClass":"pl-e"}],[],[{"start":0,"end":19,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"}],[],[{"start":0,"end":29,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":7,"cssClass":"pl-e"}],[],[{"start":0,"end":22,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":12,"cssClass":"pl-e"}],[],[{"start":0,"end":114,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":79,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[],[{"start":0,"end":21,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":22,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":18,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":29,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":21,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":14,"cssClass":"pl-e"}],[],[{"start":0,"end":17,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":25,"cssClass":"pl-e"}],[],[{"start":0,"end":31,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":20,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":24,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":30,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":27,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":20,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":23,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":24,"cssClass":"pl-e"}],[],[{"start":0,"end":8,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":19,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":18,"cssClass":"pl-e"}],[],[{"start":0,"end":35,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":79,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":72,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":14,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":15,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":18,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":25,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":17,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":7,"cssClass":"pl-k"},{"start":7,"end":11,"cssClass":"pl-e"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":13,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":5,"cssClass":"pl-e"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":5,"cssClass":"pl-e"}],[],[{"start":0,"end":7,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":12,"cssClass":"pl-e"},{"start":12,"end":13,"cssClass":"pl-k"}],[],[{"start":0,"end":23,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":8,"cssClass":"pl-k"},{"start":9,"end":26,"cssClass":"pl-e"}],[],[{"start":0,"end":27,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":1,"cssClass":"pl-k"},{"start":1,"end":5,"cssClass":"pl-e"}],[],[{"start":0,"end":10,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":3,"cssClass":"pl-e"}],[],[{"start":0,"end":27,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":13,"cssClass":"pl-e"}],[],[{"start":0,"end":13,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":24,"cssClass":"pl-e"}],[],[{"start":0,"end":24,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":19,"cssClass":"pl-e"}],[],[{"start":0,"end":54,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":34,"cssClass":"pl-e"}],[{"start":0,"end":22,"cssClass":"pl-e"}],[{"start":0,"end":28,"cssClass":"pl-e"}],[{"start":0,"end":17,"cssClass":"pl-e"}],[],[{"start":0,"end":26,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":18,"cssClass":"pl-e"}],[],[{"start":0,"end":43,"cssClass":"pl-c"},{"start":0,"end":1,"cssClass":"pl-c"}],[{"start":0,"end":5,"cssClass":"pl-e"},{"start":6,"end":12,"cssClass":"pl-e"},{"start":13,"end":37,"cssClass":"pl-e"}]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/bbq-bean/gitignore-intellij-plus-python/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/bbq-bean/gitignore-intellij-plus-python/security/dependabot","repoSecurityAndAnalysisPath":"/bbq-bean/gitignore-intellij-plus-python/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":".gitignore","displayUrl":"https://github.com/bbq-bean/gitignore-intellij-plus-python/blob/master/.gitignore?raw=true","headerInfo":{"blobSize":"3.45 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"b1a2cb7","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fbbq-bean%2Fgitignore-intellij-plus-python%2Fblob%2Fmaster%2F.gitignore","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"210","truncatedSloc":"168"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"Ignore List","languageID":74444240,"large":false,"loggedIn":false,"newDiscussionPath":"/bbq-bean/gitignore-intellij-plus-python/discussions/new","newIssuePath":"/bbq-bean/gitignore-intellij-plus-python/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/bbq-bean/gitignore-intellij-plus-python/blob/master/.gitignore","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/bbq-bean/gitignore-intellij-plus-python/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"bbq-bean","repoName":"gitignore-intellij-plus-python","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotInfo":null,"csrf_tokens":{"/bbq-bean/gitignore-intellij-plus-python/branches":{"post":"OHzIIVYdirB6qSkTKE7afHkKrQRej8WepaEiqsvtJEnijQGi-5Y0OgV2o92ZKI7RTq7atobXBG26HVV8O52LNw"},"/repos/preferences":{"post":"ik4jqnv-2stvfHPhYbDyKugRb-QK2YGbcQSkhstowTTvb-yD_50C93uGF2lWvE4abO2ESRo405DbRfhh0YOg1w"}}},"title":"gitignore-intellij-plus-python/.gitignore at master · bbq-bean/gitignore-intellij-plus-python"}
+# any intellij
+.idea/*
+.idea*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Generated files
+.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+.idea/artifacts
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/modules.xml
+.idea/*.iml
+.idea/modules
+*.iml
+*.ipr
+
+# CMake
+cmake-build-*/
+
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
